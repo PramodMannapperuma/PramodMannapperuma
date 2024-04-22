@@ -43,7 +43,7 @@
 <h2 align="center">Achievements</h2>
 
 <div align="center">
-<img src="https://holopin.me/PramodMannapperuma">
+<img src="https://holopin.me/@_spartaz_">
 
 <img src="https://github-profile-trophy.vercel.app/?username=PramodMannapperuma&theme=juicyfresh&row=1&no-bg=true&no-frame=true" width="100%" />
 </div>
