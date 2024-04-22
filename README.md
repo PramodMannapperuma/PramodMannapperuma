@@ -15,6 +15,7 @@
     <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,java,py,c,cs,express,flutter,dart,php,bootstrap,html,css,matlab,jest,git,docker,bash,github,githubactions,linux,mysql,postman,sqlite,visualstudio,vite,vitest,vscode&theme=dark" />
   </a>
 </p>
+
 <hr />
 <p align="center">
   <img height=25 src="https://img.shields.io/badge/Code%20Wizard-🧙‍♂️-purple?style=for-the-badge&logo=javascript&logoColor=white" />
