@@ -1,5 +1,5 @@
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/iddhi-sulakshana/iddhi-sulakshana/output/github-contribution-grid-snake-dark.svg"
+  <img  src="https://raw.githubusercontent.com/PramodMannapperuma/PramodMannapperuma/output/github-contribution-grid-snake-dark.svg"
        alt="snake" />
 </div>
 <p align="center">
@@ -36,7 +36,7 @@
 </a>
 <h2 align="center">Streaks</h2>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img height=200 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=iddhi-sulakshana&theme=transparent&mode=weekly" alt="GitHub Streak"/>
+  <img height=200 width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PramodMannapperuma&theme=transparent&mode=weekly" alt="GitHub Streak"/>
 </a>
 
 <h2 align="center">Achievements</h2>
@@ -44,5 +44,5 @@
 <div align="center">
 <img src="https://holopin.me/iddhidasanayaka">
 
-<img src="https://github-profile-trophy.vercel.app/?username=iddhi-sulakshana&theme=juicyfresh&row=1&no-bg=true&no-frame=true" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=PramodMannapperuma&theme=juicyfresh&row=1&no-bg=true&no-frame=true" width="100%" />
 </div>
