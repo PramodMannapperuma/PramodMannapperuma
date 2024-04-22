@@ -28,11 +28,11 @@
 </p>
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="18"> Stats</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=iddhi-sulakshana&show_icons=true&theme=transparent&hide=issues&show=prs_merged" alt="GitHub Stats"/>
+  <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=PramodMannapperuma&show_icons=true&theme=transparent&hide=issues&show=prs_merged" alt="GitHub Stats"/>
 </a>
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=18> Languages</h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iddhi-sulakshana&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide=html,css" alt="GitHub Languages"/>
+  <img height=200 width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PramodMannapperuma&show_icons=true&theme=transparent&layout=compact&langs_count=10&hide=html,css" alt="GitHub Languages"/>
 </a>
 <h2 align="center">Streaks</h2>
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
